@@ -1,4 +1,4 @@
-# nodejs-populate-mongo-from-csv
+# Populate DataBase from csv
 
 Projeto para popular o MongoDb com dados de um arquivo .csv utilizando NodeJS.
 
